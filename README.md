@@ -1,0 +1,2 @@
+# Zaidimas
+Sukurta zaidimo dalis
